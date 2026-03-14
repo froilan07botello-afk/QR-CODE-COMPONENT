@@ -11,14 +11,14 @@ El objetivo es aplicar los conocimientos sobre **componentes**, **maquetación**
 Agrega aquí una **captura de pantalla** del resultado final de tu componente.  
 > Puedes usar la herramienta de captura del navegador o cualquier software de tu preferencia.
 
-![Vista previa del componente](./screenshot.jpg)
+![Vista previa del componente](image.png) ![alt text]
 
 ---
 
 ### 🔗 Enlaces del proyecto
 
-- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/froilan07botello-afk/QR-CODE-COMPONENT.git)
-- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify]()
+- **Repositorio en GitHub:** [https://github.com/froilan07botello-afk/QR-CODE-COMPONENT.git]
+- **Sitio desplegado (opcional):** [https://qr-code-component-dun-three.vercel.app/]
 
 ---
 
